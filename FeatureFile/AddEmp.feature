@@ -14,6 +14,7 @@ When uer capture EmId After
 Then user validates emid
 Then user close browser
 Then user checking login
+Then user check login and logout
 Examples:
 |Fname|Mname|Lname|
 |Testing1|Selenium1|Manual1|
